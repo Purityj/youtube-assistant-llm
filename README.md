@@ -10,7 +10,7 @@ This Python application serves as a YouTube Assistant, allowing users to extract
 
 2. Navigate to the project directory:
     ```bash
-    cd youtube-assistant
+    cd youtube-assistant-llm
     ```
 
 3. Install dependencies:
