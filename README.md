@@ -29,8 +29,7 @@ This Python application serves as a YouTube Assistant, allowing users to extract
 3. Click on the "Submit" button to generate the answer based on the video transcript.
 
 ## Contributors
-- [Your Name](https://github.com/your_username)
-- [Contributor 1](https://github.com/contributor1)
+- Purityj - (https://github.com/Purityj)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -40,4 +39,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit Community
 
 ## Contact
-For any inquiries or support, please contact [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or support, please contact me.
