@@ -34,6 +34,10 @@ This Python application serves as a YouTube Assistant, allowing users to extract
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## UI 
+![image](https://github.com/Purityj/youtube-assistant-llm/assets/74033379/ac49f9cc-8c7f-4dcf-94ed-b8a574cf97e6)
+
+
 ## Acknowledgements
 - LangChain Community
 - Streamlit Community
