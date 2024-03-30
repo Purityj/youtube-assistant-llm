@@ -41,6 +41,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 - LangChain Community
 - Streamlit Community
+- LangChain Crash Course for Beginners by FreeCodeCamp
 
 ## Contact
 For any inquiries or support, please contact me.
