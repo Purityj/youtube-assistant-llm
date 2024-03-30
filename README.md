@@ -1,4 +1,4 @@
-# YouTube Assistant LLM for Transcript-Based Queries
+# YouTube Assistant for Transcript-Based Queries
 
 This Python application serves as a YouTube Assistant, allowing users to extract transcripts from YouTube videos and query them for information. It utilizes OpenAI, LangChain - an open-source NLP library, for text processing tasks, and Streamlit for the user interface.
 
